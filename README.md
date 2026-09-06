@@ -9,6 +9,7 @@ https://github.com/microsoft/winget-cli
 
 ```
 winget install -e --id Microsoft.WindowsTerminal
+winget install Rufus.Rufus
 winget install uutils.coreutils
 winget install Alacritty.Alacritty
 winget install shinchiro.mpv
